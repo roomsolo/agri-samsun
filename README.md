@@ -38,6 +38,7 @@ Download the pre-trained weights from the /models directory (or via the provided
 Launch the app on your emulator or physical device using flutter run or npm start.
 
 **📈 Roadmap**
+
 [ ] *IoT Sensor Integration:* Real-time soil moisture and PH level tracking.
 
 [ ] *Market Integration:* Live pricing data for crops scanned to help farmers find the best time to sell.
